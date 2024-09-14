@@ -1,0 +1,26 @@
+.app-list {
+    list-style-type: none;
+    width: 511px;
+    min-height: 50px;
+    border-radius: 10px;
+    padding: 0;
+    margin-top: 5px;
+    display: flex;
+    flex-wrap: wrap
+}
+
+.list-group-item {
+    display: flex;
+    padding: 15px;
+}
+
+.header {
+    display: flex;
+    justify-content: space-between;
+    width: 511px;
+    margin-top: 40px;
+}
+
+.list-group-date {
+    margin-right: 10px;
+}
